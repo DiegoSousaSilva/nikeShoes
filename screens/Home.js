@@ -13,7 +13,7 @@ const Home = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    borderStartColor: COLORS.white,
+    backgroundColor: COLORS.white,
   },
 });
 
